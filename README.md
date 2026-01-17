@@ -1,2 +1,2 @@
-# Java-Spring-Project
+# JavaScript-Project
 Management 
